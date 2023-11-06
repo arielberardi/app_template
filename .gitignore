@@ -42,3 +42,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# On Small Projects we can avoid having the generated files in git
+*.g.dart
+pubspec.lock
+
+firebase_options.dart
+firebase_app_id_file.json
+GoogleService-Info.plist
+google-services.json
+android/app/src/main/res/values/strings.xml
+ios/Flutter/Env.xcconfig
+.env
+secrets.json

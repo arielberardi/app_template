@@ -1,0 +1,23 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.editor.revealIfOpen": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "tabnine.experimentalAutoImports": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.inlineSuggest.showToolbar": "always",
+  "editor.rulers": [80],
+  "editor.codeLens": false,
+  "editor.minimap.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "dart.flutterSdkPath": "/Users/aberardi/Projects/Flutter/flutter",
+  "dart.flutterCreateOrganization": "com.aberardi",
+  "dart.sdkPath": null,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+}
